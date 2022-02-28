@@ -40,6 +40,7 @@
 - [Mohammed Thayyib] (https://github.com/beingconscious)
 - [Daniel B.]  (https://github.com/Danvs60)
 - [Samia Alghamdi]
+- [Quauhtli Garcia] (https://github.com/qgarcia95)
 - [Adam Pudliner](https://github.com/adampudliner)
 - [Eric Skoglund] (https://github.com/Ericmjskoglund)
 - [Juan M]
